@@ -99,9 +99,3 @@ def print_dotted(text, speed=1):
             i += 1
             
         print("")
-
-print_continuous("Hello World, i am personalysor")
-print_word_by_word("Hello World, i am personalysor")
-print_wobbly("Hello World, i am personalysor")
-print_wobbly_continuous("Hello World, i am personalysor")
-print_dotted("Hello World, i am personalysor")

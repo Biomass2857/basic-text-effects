@@ -1,6 +1,6 @@
 [project]
-name = "basic-text-effects-biomass2857"
-version = "0.0.1"
+name = "basic-text-effects"
+version = "0.0.4"
 authors = [
   { name="Tom Reinhardt", email="tomreinhardt3120@gmail.com" },
 ]
